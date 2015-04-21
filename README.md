@@ -1,0 +1,4 @@
+# PigGame
+[Not to be used without consent]
+It is an android game for two player, named Pig game. Where Player 1 starts the game, and presses the roll button. It then keeps on adding score to the textview above showing P1 and scores (It won't make any changes to P2, as score for player 2 is still 0). It will keep on adding scores on press of roll button. When hold button is pressed, phone has to be transferred to second person.Who will do the same thing. Whoever reaches 100 first will win and game will be restarted from player1. It updates round number after player 2 presses hold. To replicate the changes in round number and scores, player have to press roll button since changes in scores will be made on press of roll button as settext is written inside roll method.
+Screenshot for the app can be found here - http://imgur.com/a/NVeGa#8
