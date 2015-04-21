@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pig Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="roll">Roll!!</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">player 2</string>
+    <string name="p2">P2: </string>
+    <string name="p1">P1: </string>
+    <string name="round">Round: </string>
+    <string name="hold">Hold</string>
+</resources>
